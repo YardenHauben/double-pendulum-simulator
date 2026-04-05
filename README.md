@@ -17,8 +17,8 @@ This simulator models a double pendulum using numerical methods to solve the equ
 3. Run:
    python main.py
 
-## Screenshots
-(Add images or GIFs here)
+## Simulation Demo
+![Double Pendulum](wpendulum.gif)
 
 ## Future Improvements
 - Add UI controls
