@@ -17,6 +17,10 @@ This simulator models a double pendulum using numerical methods to solve the equ
 3. Run:
    python main.py
 
+## Dependencies
+Install required packages:
+pip install -r requirements.txt
+
 ## Simulation Demo
 ![Double Pendulum](pendulum.gif)
 
