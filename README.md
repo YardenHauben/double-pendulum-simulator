@@ -10,8 +10,8 @@ A physics-based simulation of a double pendulum demonstrating chaotic motion.
 This simulator models a double pendulum using numerical methods to solve the equations of motion. The system exhibits chaotic behavior, meaning small changes in initial conditions lead to drastically different outcomes.
 
 ## Dependencies
--numpy
--pygame
+- numpy
+- pygame
 
 ## How to Run
 1. Install Python
