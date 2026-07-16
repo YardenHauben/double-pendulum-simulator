@@ -1,5 +1,4 @@
 # Double Pendulum Simulator
-
 A physics-based simulation of a double pendulum demonstrating chaotic motion.
 
 ## Features
@@ -13,13 +12,15 @@ This simulator models a double pendulum using numerical methods to solve the equ
 ## How to Run
 1. Install Python
 2. Install dependencies:
-   pip install pygame numpy
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run:
    python main.py
 
 ## Dependencies
-Install required packages:
-pip install -r requirements.txt
+-numpy
+-pygame
 
 ## Simulation Demo
 ![Double Pendulum](pendulum.gif)
